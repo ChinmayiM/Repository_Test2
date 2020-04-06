@@ -1,3 +1,7 @@
 hello
 how are you?
+<<<<<<< .merge_file_a12632
 changes by user 2
+=======
+changes by user 1
+>>>>>>> .merge_file_a20472
